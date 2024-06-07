@@ -224,7 +224,7 @@ dependencies = [
  "async-smtp",
  "chrono",
  "fantoccini",
- "fast-socks5 0.9.2",
+ "fast-socks5 0.9.6",
  "futures",
  "hickory-proto",
  "hickory-resolver",
@@ -546,9 +546,9 @@ dependencies = [
 
 [[package]]
 name = "fast-socks5"
-version = "0.9.2"
+version = "0.9.6"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "d449e348301d5fb9b0e5781510d8235ffe3bbac3286bd305462736a9e7043039"
+checksum = "f89f36d4ee12370d30d57b16c7e190950a1a916e7dbbb5fd5a412f5ef913fe84"
 dependencies = [
  "anyhow",
  "async-trait",
